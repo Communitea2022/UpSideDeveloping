@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UpSideDeveloping
+- 👋 Hi, I’m @Communitea
 - 👀 I’m interested in Discord Bots , Programming
 - 🌱 I’m currently learning Go
 - 📫 How to reach me Instagram: gveklom
